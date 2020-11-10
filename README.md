@@ -1,5 +1,3 @@
-Link to app: https://instagram-clone-b61af.web.app/
-
 This Instagram Clone has been created using React, JavaScript, HTML and CSS. Firebase has been used for authentication, storing posts and post comments, and for deploying the app.
 
 ![Screenshot (251)](https://user-images.githubusercontent.com/52904509/92442832-300df700-f1ce-11ea-8d94-a0c0851d60a8.png)
